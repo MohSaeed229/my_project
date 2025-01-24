@@ -1,0 +1,5 @@
+New Feature Ideas
+Add a "Hello World" message to the homepage.
+Create a button that doesn't do anything (yet).
+Add placeholder text saying "Feature coming soon!".
+Include a joke: Why did the developer go broke? Because they used up all their cache!
